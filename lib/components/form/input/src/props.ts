@@ -135,4 +135,4 @@ export const inputProps = {
   },
 }
 
-export type InputProps = ExtractPublicPropTypes<typeof inputProps>
+export type LewInputProps = ExtractPublicPropTypes<typeof inputProps>

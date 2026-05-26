@@ -144,4 +144,4 @@ export const uploadByCardProps = {
   },
 }
 
-export type UploadProps = ExtractPublicPropTypes<typeof uploadProps>
+export type LewUploadProps = ExtractPublicPropTypes<typeof uploadProps>

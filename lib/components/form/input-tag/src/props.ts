@@ -71,4 +71,4 @@ export const inputTagProps = {
   },
 }
 
-export type InputTagProps = ExtractPublicPropTypes<typeof inputTagProps>
+export type LewInputTagProps = ExtractPublicPropTypes<typeof inputTagProps>

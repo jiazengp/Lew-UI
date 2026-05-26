@@ -92,4 +92,4 @@ export const inputNumberProps = {
   },
 }
 
-export type InputNumberProps = ExtractPublicPropTypes<typeof inputNumberProps>
+export type LewInputNumberProps = ExtractPublicPropTypes<typeof inputNumberProps>
