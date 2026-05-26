@@ -89,4 +89,4 @@ export const modalProps = {
 }
 
 // Extract prop types
-export type ModalProps = ExtractPublicPropTypes<typeof modalProps>
+export type LewModalProps = ExtractPublicPropTypes<typeof modalProps>

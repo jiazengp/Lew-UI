@@ -97,4 +97,4 @@ export const sliderRangeProps = {
   },
 }
 
-export type SliderRangeProps = ExtractPublicPropTypes<typeof sliderRangeProps>
+export type LewSliderRangeProps = ExtractPublicPropTypes<typeof sliderRangeProps>

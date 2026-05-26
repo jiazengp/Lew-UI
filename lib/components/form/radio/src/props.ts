@@ -151,5 +151,5 @@ export const radioGroupProps = {
   },
 }
 
-export type RadioProps = ExtractPublicPropTypes<typeof radioProps>
-export type RadioGroupProps = ExtractPublicPropTypes<typeof radioGroupProps>
+export type LewRadioProps = ExtractPublicPropTypes<typeof radioProps>
+export type LewRadioGroupProps = ExtractPublicPropTypes<typeof radioGroupProps>

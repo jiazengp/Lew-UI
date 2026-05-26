@@ -54,4 +54,4 @@ export const rateProps = {
   },
 }
 
-export type RateProps = ExtractPublicPropTypes<typeof rateProps>
+export type LewRateProps = ExtractPublicPropTypes<typeof rateProps>

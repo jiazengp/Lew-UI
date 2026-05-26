@@ -268,8 +268,8 @@ export const tipsIconSizeMap: Record<LewSize, number> = {
   large: 16,
 }
 
-export type FormProps = ExtractPublicPropTypes<typeof formProps>
-export type FormItemProps = ExtractPublicPropTypes<typeof formItemProps>
+export type LewFormProps = ExtractPublicPropTypes<typeof formProps>
+export type LewFormItemProps = ExtractPublicPropTypes<typeof formItemProps>
 
 export const formTypeAsMap: Record<string, any> = {
   'input': 'string',

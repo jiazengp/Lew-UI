@@ -90,4 +90,4 @@ export const popoverProps = {
   },
 }
 
-export type PopoverProps = ExtractPublicPropTypes<typeof popoverProps>
+export type LewPopoverProps = ExtractPublicPropTypes<typeof popoverProps>

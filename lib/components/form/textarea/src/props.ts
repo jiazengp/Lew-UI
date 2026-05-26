@@ -144,4 +144,4 @@ export const textareaProps = {
   },
 }
 
-export type TextareaProps = ExtractPublicPropTypes<typeof textareaProps>
+export type LewTextareaProps = ExtractPublicPropTypes<typeof textareaProps>
